@@ -14,7 +14,25 @@ This is a lightweight CSS utility library designed to provide a set of convenien
 - Borders: Quickly add borders with customizable styles.
 - Transitions: Apply smooth transitions to elements.
 - Responsive Design: Use responsive classes to adapt to different screen sizes.
+##Here's a brief overview of what this SCSS code includes:
 
+    Aspect Ratio: Classes for defining aspect ratios like 16x9, 4x3, etc.
+    Container: Classes for defining container widths.
+    Columns: Classes for defining column counts.
+    Break After/Break Before/Break Inside: Classes for controlling page breaks.
+    Box Decoration Break: Classes for controlling box decoration breaks.
+    Box Sizing: Classes for controlling box sizing.
+    Display: Classes for controlling the display property.
+    Floats/Clear: Classes for controlling floating and clearing.
+    Isolation: Classes for controlling isolation.
+    Object Fit/Object Position: Classes for controlling object fit and position.
+    Overflow/Overscroll Behavior: Classes for controlling overflow and overscroll behavior.
+    Position/Top/Right/Bottom/Left: Classes for controlling positioning.
+    Visibility/Z-Index: Classes for controlling visibility and z-index.
+    Word Break/Word Wrap/White Space: Classes for controlling text wrapping and spacing.
+    Hover/Active/Focus/Visited/Disabled: Classes for different states of interactivity.
+    Placeholder/Not Placeholder/Read Only/Read Write/Valid/Invalid/Required/Optional/Checked/Not Checked/Default/Indeterminate/Placeholder Shown/Target/Empty/First Child/Last Child/Only Child/First Of Type/Last Of Type/Only Of Type/Empty (Last Child)/Enabled/Disabled (Form Control)/Active (Form Control)/Valid (Form Control)/Invalid (Form Control)/Required (Form Control)/Optional (Form Control)/Checked (Form Control)/Not Checked (Form Control)/Default (Form Control)/Indeterminate (Form Control)/Placeholder Shown (Form Control)/Target (Form Control)/Empty (Form Control)/First Child (Form Control)/Last Child (Form Control)/Only Child (Form Control)/First Of Type (Form Control)/Last Of Type (Form Control)/Only Of Type (Form Control)/Focus Within/Focus Visible/Full Screen/Future/Past/Host/Host Context/Host (Deprecated)/Host Context (Deprecated)/Slotted/Input Placeholder/Input Placeholder (Mozilla)/Input Placeholder (MS Edge)/Input Placeholder (Webkit)/Selection/Placeholder Textarea/Placeholder Textarea (Mozilla)/Placeholder Textarea (MS Edge)/Placeholder Textarea (Webkit)/Input Type/Dark Mode/Light Mode/Reduced Motion: Various utility classes for different pseudo-classes, media queries, and states.
+  
 ## How to Use
 
 1. Include the CSS file in your project:
