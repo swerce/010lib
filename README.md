@@ -22,4 +22,7 @@ This is a lightweight CSS utility library designed to provide a set of convenien
 ```html
 <link rel="stylesheet" href="path/to/your/css/utility-library.css">
 
+License
+
+This CSS utility library is open-source and available under the MIT License.
 under development 
